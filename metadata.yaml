@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8103'
     url: http://www.gutenberg.org/2009/agents/8103
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18548#Transactions-of-the-American-Society-of-Civil-Engineers-vol.-LXVIII-Sept.-1910The-North-River_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2006-06-10'
 gutenberg_type: Text
